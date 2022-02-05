@@ -1,0 +1,7 @@
+token: "" # Bot token here
+prefix: "!" # Bot prefix here
+whitelistedRole: 123 # Role ID of users that need to be checked
+afkTime: "1" # Time in minutes a user needs to be inactive for them to lose their role
+
+giveRole: false # Whether or not to give a user that doesn't chat for some time a role when their whitelisted role is removed
+giveRoleID: 123 # Role ID of the role to give to users that don't chat for some time
